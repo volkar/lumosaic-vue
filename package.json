@@ -4,10 +4,8 @@
   "description": "Adaptive, data-driven image and video mosaic gallery with intelligent row layout for Vue 3 and Nuxt 4",
   "author": "Sergey Volkar <volkar.sergey@gmail.com>",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/volkar/lumosaic.git"
-  },
+  "homepage": "https://lumosaic.syntheticsymbiosis.com",
+  "repository": "git+https://github.com/volkar/lumosaic-vue.git",
   "keywords": [
     "vue",
     "vue3",
