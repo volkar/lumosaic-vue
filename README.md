@@ -6,6 +6,10 @@ Lumosaic is a lightweight Vue 3 / Nuxt 4 component that automatically arranges p
 
 ![Preview](https://github.com/volkar/lumosaic/blob/main/preview.jpg?raw=true)
 
+## Vanilla JS version
+
+It's right [here](https://github.com/volkar/lumosaic)!
+
 ## Live demo
 
 See it in action: [lumosaic.syntheticsymbiosis.com](https://lumosaic.syntheticsymbiosis.com)
