@@ -74,7 +74,6 @@ export class Lumosaic {
 
     public async init(userConfig: Partial<LumosaicOptions> = {}): Promise<this | void> {
         // Merge user options with defaults
-        console.log(userConfig)
         this.mergeOptions(userConfig)
 
         // Add loading spinner

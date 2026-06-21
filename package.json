@@ -1,6 +1,6 @@
 {
   "name": "lumosaic",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "Adaptive, data-driven image and video mosaic gallery with intelligent row layout for Vue 3 and Nuxt 4",
   "author": "Sergey Volkar <volkar.sergey@gmail.com>",
   "license": "MIT",
